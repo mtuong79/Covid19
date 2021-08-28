@@ -34,5 +34,5 @@ else:
     st.image("img/STSK-CapCuu.png")
 
 st.subheader("TÌM HIỂU THÊM")
-st.write("Cong thong tin Covid19 [HCM](https://covid19.hochiminhcity.gov.vn/home)")
+st.write("Cổng thông tin Covid19 [HCM](https://covid19.hochiminhcity.gov.vn/home)")
 st.write("[Sổ tay](https://covid19.hochiminhcity.gov.vn/cham-soc-suc-khoe/-/asset_publisher/ZSHLi888uq2s/content/so-tay-suc-khoe-covid--1?inheritRedirect=false&redirect=https%3A%2F%2Fcovid19.hochiminhcity.gov.vn%2Fcham-soc-suc-khoe%3Fp_p_id%3D101_INSTANCE_ZSHLi888uq2s%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-10%26p_p_col_count%3D1) sức khỏe Covid 19")
