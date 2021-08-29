@@ -14,7 +14,7 @@ elif xem_yte == 'Q10-Y Tế':
     st.image("img/q10-YTe.jpg")
 elif xem_yte == 'Q3-Tổ phản ứng nhanh F0':
     st.image("img/q3-YTe.jpg")
-elif:
+elif xem_yte == 'Q3-Tổ phản ứng nhanh F0':
     st.image("img/q3-p3-SOS.png")
 else:
     st.image("img/SOS-ThucPham.png")
