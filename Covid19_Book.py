@@ -41,4 +41,4 @@ st.write("[Sổ tay](https://covid19.hochiminhcity.gov.vn/cham-soc-suc-khoe/-/as
 st.write("[Giúp Tôi](https://www.giuptoi.vn/) - Kết Nối và Trợ Giúp")
 st.write("Bệnh viện Chợ Rẫy khám bệnh [online](https://thanhnien.vn/thoi-su/benh-vien-cho-ray-kham-benh-online-tu-9-gio-hom-nay-128-cho-cac-bn-khong-phai-benh-covid-19-1429436.html)")
 st.write("Nhu yếu phẩm [cần hỗ trợ](https://thanhnien.vn/thoi-su/nguoi-dan-tphcm-ghi-nho-nhung-so-dien-thoai-nay-khi-can-ho-tro-nhu-yeu-pham-1434807.html)")
-st.write("Ứng dụng giúp người dân nhận túi [An Sinh](https://vnexpress.net/ung-dung-giup-nguoi-dan-nhan-tui-an-sinh-tien-ho-tro-4350033.html), tiền hỗ trợ")
+st.write("Ứng dụng [An Sinh](https://vnexpress.net/ung-dung-giup-nguoi-dan-nhan-tui-an-sinh-tien-ho-tro-4350033.html) giúp người dân nhận túi an sinh, tiền hỗ trợ")
