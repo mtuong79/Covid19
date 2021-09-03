@@ -5,13 +5,15 @@ st.image("img/1022.png")
 
 st.subheader("[ĐƯỜNG DÂY NÓNG](https://covid19.hochiminhcity.gov.vn/duong-day-nong-thanh-pho)")
 xem_yte = st.radio("",
-                   ('Q10-Y Tế Lưu Động','Q10-Tổ phản ứng nhanh F0','Q10-Y Tế','Q3-Y Tế','Q3-Tổ phản ứng nhanh F0','Hỗ trợ nhu yếu phẩm'))
+                   ('Q10-Y Tế Lưu Động','Q10-Tổ phản ứng nhanh F0','Q10-Y Tế','Q10-P2- Y Tế','Q3-Y Tế','Q3-Tổ phản ứng nhanh F0','Hỗ trợ nhu yếu phẩm'))
 if xem_yte == 'Q10-Y Tế Lưu Động':
     st.image("img/q10-YTeDong.png")
 elif xem_yte == 'Q10-Tổ phản ứng nhanh F0':
     st.image("img/q10-p2-SOS.png")
 elif xem_yte == 'Q10-Y Tế':
     st.image("img/q10-YTe.jpg")
+elif xem_yte == 'Q10-P2- Y Tế':
+    st.image("img/q10-p2-Yte.jpg")
 elif xem_yte == 'Q3-Tổ phản ứng nhanh F0':
     st.image("img/q3-YTe.jpg")
 elif xem_yte == 'Q3-Tổ phản ứng nhanh F0':
