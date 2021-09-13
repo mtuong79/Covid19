@@ -34,6 +34,7 @@ if xem_covid == 'Triệu Chứng':
     st.image("img/STSK-TrieuChung.png")
 elif xem_covid == 'Điều Trị F0':
     st.image("img/STSK-F0.png")
+    st.image("img/sudungthuoccovid-19.png")
 else:
     st.image("img/STSK-CapCuu.png")
 
